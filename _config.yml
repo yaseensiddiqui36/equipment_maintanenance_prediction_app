@@ -1,0 +1,10 @@
+title: My Jupyter Book
+author: Yaseen Siddiqui
+execute:
+  execute_notebooks: "auto"
+html:
+  use_repository_button: true
+  use_issues_button: true
+repository:
+  url: https://github.com/yaseensiddiqui36/equipment_maintanenance_prediction_app  # GitHub repository
+  branch: main
